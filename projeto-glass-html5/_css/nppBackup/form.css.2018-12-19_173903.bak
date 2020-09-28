@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+form{
+	width: 500px;
+	margin: auto;
+}
+
+imput{
+	
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 13pt;
+}
